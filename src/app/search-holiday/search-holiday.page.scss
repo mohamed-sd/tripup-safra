@@ -10,10 +10,14 @@ ion-header {
 
 }
 
-.banner {
-    position: relative;
-    overflow: hidden;
-    padding: 0 20px;
+.bannercontainer{
+    padding: 20px;;
+    background-color: rgba(0, 0, 0, 0.393);
+}
+
+.banner { 
+     background:url('../../assets/imgs/holiday.png');
+    background-size: cover;
     padding-top: 53px;
     padding-bottom: 5px;
 
