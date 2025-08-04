@@ -1,0 +1,53 @@
+# ---------------------------------------
+# OS-specific files
+# ---------------------------------------
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+
+# ---------------------------------------
+# Editor files
+# ---------------------------------------
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+*~
+
+# ---------------------------------------
+# Temporary and log files
+# ---------------------------------------
+*.log
+log.txt
+npm-debug.log*
+*.tmp
+.tmp
+*.tmp.*
+*.sw[mnpcod]
+
+# ---------------------------------------
+# Node / Angular / Ionic build output
+# ---------------------------------------
+node_modules/
+package-lock.json
+dist/
+build/
+www/
+coverage/
+.sass-cache/
+.sourcemaps/
+.angular/
+.ionic/
+.versions/
+
+# ---------------------------------------
+# Cordova / Capacitor
+# ---------------------------------------
+platforms/
+plugins/
+android/
+ios/
+
+# ---------------------------------------
+# Others
+UserInterfaceState.xcuserstate
